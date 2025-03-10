@@ -1,0 +1,71 @@
+.blocos{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: space-around;
+
+padding: 10%;
+
+}
+
+
+.bloco {
+    background-color: transparent;
+  
+    font-size: 80%;
+    width: 30%;
+    height: 50%;
+    margin-bottom: 3%;
+
+    padding: 1%;
+    transition: all 0.5s ease;
+  border: 2px solid #0c0ce4aa;
+  border-radius: 2px;
+   
+    h3 {
+        font-size: 2vw;
+      margin-left: 10%;
+      color:white ;
+    }
+  
+    p {
+
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+      margin-bottom: 10%;
+      text-align: center;
+      font-size: 120%;
+      color: whitesmoke;
+
+    }
+  }
+
+  .bloco:hover{
+    background-color: white;
+    border-color: #e22a8f;
+    transform: translateY(-10px);
+    h3{
+        color: black;
+    }
+
+    p{
+        color: black;
+    }
+  }
+
+  .oq{
+    text-align: center;
+    h3{
+        font-size: 3vw;
+      margin-left: 10%;
+      color:white ; 
+    }
+
+    p {
+
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+      margin-bottom: 10%;
+      text-align: center;
+      font-size: 120%;
+      color: whitesmoke;
+
+    }
+  }

@@ -1,0 +1,60 @@
+header {
+	display: flex;
+	margin-left: 20%;
+	h1{
+font-size: 5vw;		
+padding-top: 6%;
+color: #e22a8f;
+	}
+
+
+}
+/*_______________________________________ LOGO  */
+.logo {
+
+  }
+  .logo:hover {
+	filter: drop-shadow(0 0 20% #0c0ce4aa);
+  }
+ 
+
+
+
+
+.aba{
+
+	margin: 0 3%;
+	font-family: "Oswald", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: weight;
+	font-style: normal;
+
+
+	font-size: 15pt;
+transition: all 1s ease;
+}
+
+.aba:hover{
+color: #bc1c64;
+}
+
+
+
+
+
+  
+@keyframes logo-spin {
+	from {
+	  transform: rotate(0deg);
+	}
+	to {
+	  transform: rotate(360deg);
+	}
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+	a:nth-of-type(2) .logo {
+	  animation: logo-spin infinite 20s linear;
+	}
+  }
+
