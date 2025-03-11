@@ -20,8 +20,8 @@ function guilherme() {
 <ul>
 
 <li>https://brasilescola.uol.com.br/o-que-e/matematica/o-que-e-algebra.htm</li>
-<li></li>
-<li></li>
+<li>https://educador.brasilescola.uol.com.br/estrategias-ensino/formulas-algebricas-no-cotidiano.htm</li>
+
 
 </ul>
 </article>

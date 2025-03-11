@@ -93,4 +93,41 @@ html {
         align-items: center;
         padding-top: 5%;
       }
+
+
+
+      .usar{
+
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+        text-align: center;
+margin-bottom: 20%;
+margin-top: 10%;
+        border: 2px solid white;
+
+        h2{
+          color: #646cff;
+          font-size: 3vw;
+        }
+      }
+
+
+      .fontes{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+
+        text-align: center;
+margin-bottom: 20%;
+margin-top: 10%;
+
+        h2{
+          color: #646cff;
+          font-size: 3vw;
+        }
+      }
+
+
      
