@@ -1,6 +1,3 @@
-
-
-
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
@@ -8,6 +5,6 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   build: {
-    outDir: 'build' // Altera a pasta de saída de 'dist' para 'build'
+    outDir: 'build' // Alterando o diretório de saída para 'build'
   }
 })
